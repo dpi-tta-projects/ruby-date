@@ -4,6 +4,11 @@
 # Write a script that accepts a single argument YYYY-MM-DD and prints it as:
 # "September 10, 2025"
 #
-# Usage:
-#   ruby format_date.rb 2025-09-10
+# Tip
+#
+# use "strftime" to format the date
+#
+# %B - Month
+# %d - Day
+# %Y - Year
 #
