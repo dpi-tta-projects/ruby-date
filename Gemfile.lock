@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/dpi-tta/grade-runner
-  revision: ff49d6df11903eeac57e31f59d00c929bec29c17
+  revision: 8a856bc1f265828fc993998ef34f32c2b8517e0d
   specs:
     grade_runner (0.0.14)
       activesupport (>= 2.3.5)
